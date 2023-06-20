@@ -1,0 +1,7 @@
+---
+- name: assign the ip
+  hosts: all
+  tasks:
+    - name: assign the IP
+      ip:
+
