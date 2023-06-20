@@ -1,0 +1,8 @@
+---
+- name: test playbook
+  hosts: all
+  tasks:
+    - name: install packages
+      yum:
+        name: httpd
+        state: latest
