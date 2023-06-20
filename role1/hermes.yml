@@ -4,5 +4,5 @@
   tasks:
     - name: install packages
       yum:
-        name: httpd
+        name: openvpn
         state: latest
