@@ -1,0 +1,8 @@
+---
+- name: dns assign
+  hosts: all
+  tasks:
+    - name: assign dns
+      yum:
+        name: named
+        state: latest
