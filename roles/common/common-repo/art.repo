@@ -1,0 +1,4 @@
+name = art repo
+baseurl = http://localhost
+enable = yes
+gpgcheck = 0
