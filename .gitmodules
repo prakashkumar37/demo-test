@@ -1,3 +1,8 @@
 [submodule "roles/terraformkyn"]
 	path = roles/terraformkyn
 	url = https://github.com/prakashkumar37/terraformkyn.git
+[submodule "DO180-apps"]
+	path = DO180-apps
+	url = https://github.com/prakashkumar37/DO180-apps
+	branch = s2i
+	recurse = true
