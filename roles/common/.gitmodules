@@ -1,0 +1,5 @@
+[submodule "terraform-kyn"]
+       path = terraform-kyn
+       url = https://github.com/prakashkumar37/terraformkyn.git
+       branch = main
+       recurse = true
