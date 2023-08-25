@@ -6,3 +6,6 @@
 	url = https://github.com/prakashkumar37/DO180-apps
 	branch = s2i
 	recurse = true
+[submodule "roles/DO180-apps"]
+	path = roles/DO180-apps
+	url = https://github.com/prakashkumar37/DO180-apps
